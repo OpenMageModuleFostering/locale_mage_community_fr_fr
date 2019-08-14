@@ -19,7 +19,7 @@
 "Method ""%s"" not defined in adapter %s","Méthode ""%s"" non définie dans l'adapter %s"
 "Please declare ""adapter"" and ""method"" node first","Veuillez d'abord déclarer l'adapter et la méthode"
 "Processed records: %s","Enregistrements traités : %s"
-"Saved successfully: ""%s"" [%d byte(s)]","Sauvegardé : ""%s"" [%d octet(s)]"
+"Saved successfully: ""%s"" [%d byte(s)]","Sauvegarde réussie : ""%s"" [%d octets(s)]"
 "Sheet 1","Feuille 1"
 "Skip undefined row","Ligne non définie ignorée"
 "Starting %s :: %s","Début %s : : %s"
