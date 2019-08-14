@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Locale_Mage_community_fr_FR",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Magento Community Modules - French (France) Language Pack",
+    "authors": [
+    {
+        "name": "SeL",
+        "email": "seb.lepers@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
