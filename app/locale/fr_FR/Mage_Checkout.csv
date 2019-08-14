@@ -227,3 +227,5 @@
 "Zip/Postal Code","Code postal"
 "separate by "",""","séparés par des "","""
 "Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.","Cliquez <a href=""%s"" onclick=""this.target=\'_blank\'"">ici pour imprimer</a> une copie de votre confirmation de commande."
+"Enter your coupon code.","Saisissez votre code de réduction."
+"Estimate Shipping & Tax","Estimer la livraison et la TVA"
