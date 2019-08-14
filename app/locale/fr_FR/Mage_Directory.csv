@@ -34,6 +34,7 @@
 "Service","Service"
 "Start Time","Heure de début"
 "State/Province","État/Région"
+"Strikeiron Email Update Warnings","Alertes de mise à jour d'email Strikeiron"
 "Unable to initialize import model","Impossible d'initialiser le modèle d'import"
 "Undefined rate from ""%s-%s""","Taux indéfini pour ""%s-%s"""
 "WARNING:","ATTENTION :"

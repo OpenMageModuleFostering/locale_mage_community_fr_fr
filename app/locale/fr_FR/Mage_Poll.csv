@@ -15,6 +15,7 @@
 "Delete","Supprimer"
 "Delete Answer","Supprimer la réponse"
 "Delete Poll","Supprimer le sondage"
+"Disallow voting in a poll multiple times from same IP-address","Interdire les votes multiples depuis une même adresse IP"
 "Edit Answer '%s'","Éditer la réponse '%s'"
 "Edit Poll '%s'","Éditer le sondage '%s'"
 "Edit Poll Answer","Modifier la réponse du sondage"

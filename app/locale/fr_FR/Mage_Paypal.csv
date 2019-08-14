@@ -3,7 +3,7 @@
                                 Where &lt;user_action&gt; is 'commit' or 'continue', depending on your preference of commit button text.
                             ","
                                 Exemple : <b>https://www.paypal.com/au/cgi-bin/webscr?cmd=_express-checkout&useraction=<user_action>&amp;token=</b>
-                                Où &lt;user_action&gt; vaut 'commit' ou 'continue', selon le texte que vous voulez afficher sur le bouton de validation.
+                                Où &lt;user_action&gt; vaut 'commit' ou 'continue', selon votre choix de texte du bouton valider.
                             "
 "API Password","Mot de passe d'accès à l'API"
 "API Signature","Signature de l'API"
@@ -100,6 +100,6 @@
 "What is this?","Aide ?"
 "You will be redirected to Paypal in a few seconds.","Vous serez redirigé(e) vers Paypal dans quelques secondes."
 "Your billing address will be ignored and you will be redirected to PayPal UK website","Votre adresse de facturation sera ignorée et vous serez redirigé vers le site de Paypal UK."
-"Vendor","Vendeur"
 "Password","Mot de passe"
+"Vendor","Vendeur"
 "User","Utilisateur"
