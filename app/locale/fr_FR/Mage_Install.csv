@@ -106,6 +106,6 @@
 "Username","Nom d'utilisateur"
 "Web access options","Options d'accès web"
 "Welcome to Magento's Installation Wizard","Bienvenue sur l'assistant d'installation de Magento"
-"You can specify server port, ex.: localhost:3307<br/>If you are not using default UNIX socket, you can specify it here instead of host, ex.: /var/run/mysqld/mysqld.sock","Vous pouvez spécifier un port de serveur, par ex: localhost:3307<br/>Si vous n'utilisez pas la socket UNIX par défaut, vous pouvez le spécifier ici à la place de l'hôte, par ex : /var/run/mysqld/mysqld.sock"
+"You can specify server port, ex.: localhost:3307<br />If you are not using default UNIX socket, you can specify it here instead of host, ex.: /var/run/mysqld/mysqld.sock","Vous pouvez spécifier un port pour le serveur, par ex.: localhost:3307<br />Si vous n'utilisez pas la socket UNIX par défaut, vous pouvez la spécifier ici au lieu de l'hôte, par ex.: /var/run/mysqld/mysqld.sock"
 "You could enable this option to use web server rewrites functionality for improved search engines optimization.","Vous pouvez activer cette option pour utiliser la fonctionnalité de réécritures du serveur web pour l'optimisation pour les moteurs de recherche"
-"You're All Set","Installation terminée "
+"You're All Set","Vous avez terminé"

@@ -19,6 +19,8 @@
 "Expiration Date: %s/%s","Date d'expiration : %s/%s"
 "Make Check payable to","Chèque libellé à l'ordre de"
 "Make Check payable to: %s","Chèque libellé à l'ordre de : %s"
+"Maximum Order Total","Montant maxi de commande"
+"Minimum Order Total","Montant mini de commande"
 "Month","Mois"
 "Name on Card","Propriétaire de la carte"
 "Name on the Card: %s","<strong>Nom sur la carte :</strong> <span class=""nowrap"">%s</span>"
